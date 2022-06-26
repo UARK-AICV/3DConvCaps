@@ -44,15 +44,21 @@ See this [repository](https://github.com/VinAIResearch/3D-UCaps) for more detail
 ## Trained models
 Our trained 3DConvCaps models on three datasets can be downloaded as follows: 
 
-- [iSeg-2017](https://uark-my.sharepoint.com/personal/minht_uark_edu/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fminht%5Fuark%5Fedu%2FDocuments%2FICPR2022%2FPretrained%5Fmodels%2FiSeg%2Eckpt&parent=%2Fpersonal%2Fminht%5Fuark%5Fedu%2FDocuments%2FICPR2022%2FPretrained%5Fmodels)
-- [Hippocampus](https://uark-my.sharepoint.com/personal/minht_uark_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fminht%5Fuark%5Fedu%2FDocuments%2FICPR2022%2FPretrained%5Fmodels%2FHippoCampus%2Eckpt&parent=%2Fpersonal%2Fminht%5Fuark%5Fedu%2FDocuments%2FICPR2022%2FPretrained%5Fmodels)
-- [Cardiac](https://uark-my.sharepoint.com/personal/minht_uark_edu/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fminht%5Fuark%5Fedu%2FDocuments%2FICPR2022%2FPretrained%5Fmodels%2FCardiac%2Eckpt&parent=%2Fpersonal%2Fminht%5Fuark%5Fedu%2FDocuments%2FICPR2022%2FPretrained%5Fmodels)
+- [iSeg-2017](https://uark-my.sharepoint.com/:u:/g/personal/minht_uark_edu/EcXhqKrOfp9BiAhru2x0vwABSeew_qcQ-RSTA8NYmYO0xg?e=ZPI0Nj)
+- [Hippocampus](https://uark-my.sharepoint.com/:u:/g/personal/minht_uark_edu/Eag8cZNDQ7FMietkIa4RodMB8dMXcaMS9eXzJfnrubbZTw?e=fWqP3h)
+- [Cardiac](https://uark-my.sharepoint.com/:u:/g/personal/minht_uark_edu/EeqQ4YJ9LSZDhpJ8eDehfLMBBGTnY4ovlvkBAHODATe4Lg?e=6NZA8G)
 
 
 ## Acknowledgement
 The implementation is mainly based on [3DUCaps thorough implementation](https://github.com/VinAIResearch/3D-UCaps).
 ## Citation
-Available soon
 ```
-
+@article{tran20223dconvcaps,
+  title={3DConvCaps: 3DUnet with Convolutional Capsule Encoder for Medical Image Segmentation},
+  author={Tran, Minh and Vo-Ho, Viet-Khoa and Le, Ngan TH},
+  journal={arXiv preprint arXiv:2205.09299},
+  year={2022}
+}
 ```
+## Contacts
+If you have any question, feel free to open an issue.
